@@ -6,11 +6,9 @@
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
----
 ## 📱 Preview
 ![app preview](<ss.jpg>)
 
----
 
 ## ✨ Features
 
@@ -26,7 +24,7 @@
 - **Export System**: Export your entire journal as beautifully organized Markdown files, with photos bundled in date-specific folders. Perfect for long-term archiving or personal blogs.
 - **Privacy First**: All your data and photos stay locally on your device. No cloud, no tracking, just your memories.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +71,6 @@
 4. **Run on your device**:
    Scan the QR code with your Expo Dev Client app (Android) or Camera app (iOS).
 
----
 
 ## 📂 Project Structure
 
@@ -84,11 +81,12 @@
 - `assets/`: App icons, splash screens, and images.
 - `types/`: TypeScript definitions.
 
----
+
 
 ## 📜 Development Notes & Roadmap
 
 The development of Kala focused on creating a "Super Minimal" experience. The challenge was balancing extreme simplicity with the power of modern mobile features like shared element transitions and high-performance list rendering.
+
 
 ### Completed:
 
@@ -100,18 +98,19 @@ The development of Kala focused on creating a "Super Minimal" experience. The ch
 - [x] Multiple "Journals" support.
 - [x] Multiple "Sections" within a day support.
 
+
 ### Future Roadmap:
 
 - [ ] iCloud/Google Drive backup support.
 - [ ] Biometric lock (FaceID/TouchID).
 - [ ] Interactive Widgets for the home screen.
 
----
 
 ## Additional Commands
 
 - eas build --local --platform ios --profile development (check first for ios simulator or not)
 - eas build --local --platform ios --profile preview
+
 
 ## 🤝 Project by [mnmls.net](https://mnmls.net)
 
