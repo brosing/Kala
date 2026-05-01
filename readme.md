@@ -7,6 +7,13 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
+## 📱 Preview
+![alt text](<ss/0x0ss (1).png>)
+![alt text](<ss/0x0ss (2).png>)
+![alt text](<ss/0x0ss (3).png>)
+![alt text](<ss/0x0ss (4).png>)
+
+---
 
 ## ✨ Features
 
