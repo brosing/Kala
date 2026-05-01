@@ -1,0 +1,84 @@
+App Name: Kala — Daily Photo Journal
+
+Subtitle: One Memory a Day, Beautifully
+
+========================================
+PROMOTIONAL TEXT (170 chars max)
+========================================
+Capture your daily life with Kala — a minimalist photo journal that keeps your memories private, organized, and always beautiful. No cloud. No ads. Just your story.
+
+========================================
+DESCRIPTION (4000 chars max)
+========================================
+Kala is the photo journal you'll actually use every day. 
+
+Designed for people who want to document their lives without the noise of social media or the privacy concerns of big tech. Kala turns daily photo-taking into a calming, intentional ritual—and keeps it entirely offline.
+No likes. No followers. No algorithms. Just you, your camera, and a beautiful calendar that fills with memories over time.
+
+◆ LOCAL-FIRST PRIVACY
+Your photos and notes shouldn't live on someone else's server. Kala stores everything locally on your device. 
+  • No Accounts: Start journaling immediately.
+  • No Tracking: We don't collect a single byte of data.
+  • No Cloud: Your phone is your personal memory vault.
+
+◆ CAPTURE ONE MOMENT EVERY DAY
+Take a photo, add a note, and move on. Kala's one-day-at-a-time philosophy helps you stay present while building a rich visual diary. Capture up to 8 photos per day—and organize them into titled sections for those days that deserve a little extra context.
+
+◆ A CALENDAR THAT TELLS YOUR STORY
+Your home screen is a beautifully minimal calendar that fills with photo thumbnails as you capture memories. Swipe between months, tap on any day to revisit or add entries, and watch your life unfold at a glance.
+
+◆ TWO BEAUTIFUL THEMES
+Choose the look that fits your style:
+  • Minimal — Photo previews fill each calendar day for a rich, magazine-like grid.
+  • Super Minimal — Elegant dots represent captured days for a more abstract, zen-like view. Hold to peek at dates.
+
+◆ GESTURE-DRIVEN NAVIGATION
+Everything flows naturally. Swipe up and down to scroll between months. Swipe on the year to jump through time. Double-tap the Home tab to snap back to today—with a satisfying pulse animation.
+
+◆ YOUR DATA STAYS YOURS
+Kala stores everything locally on your device. No accounts. No cloud sync. No tracking. Your memories belong to you and you alone.
+
+◆ EXPORT YOUR JOURNEY
+Export any month's entries as beautifully organized Markdown files—each day gets its own folder with a .md file and all associated photos. Perfect for personal blogs, backup archives, or printing your own memory book.
+
+◆ MULTI-USER SUPPORT
+Share a device with family? Each person can have their own journal space with a personalized avatar. Switch between profiles with a tap from the Settings screen.
+
+◆ DARK MODE & LIGHT MODE
+Use Kala in Light, Dark, or System mode. Every screen adapts gracefully so your journal looks stunning day and night.
+
+◆ PREMIUM TOUCHES EVERYWHERE
+Haptic feedback on every interaction. Smooth spring-based animations powered by React Native Reanimated. A floating action button with a drag-to-select gesture for capturing photos. Every pixel has been considered.
+
+Start your daily photo journal today. Private, local, and built for your memories. Your future self will thank you.
+
+
+========================================
+KEYWORDS (100 chars max, comma-separated)
+========================================
+photo journal,diary,daily photo,memory,minimal,calendar,private,journal app,photo diary,dark mode
+
+========================================
+WHAT'S NEW (Version 1.0.0)
+========================================
+Hello, World! 🌱
+
+Kala 1.0 is here — a brand new way to capture your daily life.
+
+• Beautiful calendar view with photo previews
+• Two home screen themes: Minimal & Super Minimal
+• Add photos from Camera or Photo Library
+• Notes and multiple sections per day
+• Markdown export system
+• Multi-user profiles
+• Light, Dark, and System themes
+• Fully private — all data stored on your device
+• Haptic feedback throughout
+
+========================================
+PRIVACY INFORMATION
+========================================
+Data Not Collected: Kala does not collect any data. All photos, notes, and settings are stored locally on your device and are never transmitted to external servers.
+
+Category: Photo & Video
+Age Rating: 4+

@@ -1,0 +1,36 @@
+Privacy Policy for Kala
+
+Last Updated: April 13, 2026
+
+Kala ("we," "our," or "us") is dedicated to protecting your privacy. This Privacy Policy explains how we handle your information when you use the Kala mobile application (the "App").
+
+1. No Data Collection
+Kala is a local-first application. We do not collect, store, or transmit any personal data, photos, notes, or usage information to any external servers. Everything you create or capture within the App stays on your device.
+- No Accounts: You do not need to create an account to use Kala.
+- No Tracking: We do not use any analytics or tracking tools to monitor your behavior.
+- No Cloud Storage: We do not provide or use any cloud synchronization services by default.
+
+2. Permissions
+To provide the core features of the App, we may request the following permissions on your device:
+- Camera: To allow you to take photos for your journal.
+- Photo Library: To allow you to import existing photos into your journal.
+- Haptics: To provide tactile feedback during interactions.
+
+These permissions are used solely within your device to enable the App's functionality. Your photos and media never leave your device unless you explicitly export or share them using the App's features.
+
+3. Data Storage and Security
+All your data (photos, notes, and profile settings) is stored locally on your device's internal storage. 
+- You are responsible for the security of your device and any backups you perform (e.g., via iCloud or Google Drive backups of your entire device).
+- If you delete the App, all data stored within it will be removed from your device unless you have previously exported it.
+
+4. Third-Party Services
+Kala does not integrate with any third-party services that collect your data. However, if you choose to share or export your data (e.g., using the "Export" feature), that data may be handled by other applications you choose to use.
+
+5. Children's Privacy
+Kala does not collect any personal information from anyone, including children under the age of 13.
+
+6. Changes to This Policy
+We may update our Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date at the top of this document. Since we do not collect any user contact information, we recommend checking this policy periodically for updates.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please visit mnmls.net or contact us via our official channels.
